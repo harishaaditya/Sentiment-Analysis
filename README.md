@@ -1,5 +1,17 @@
 # Sentiment-Analysis
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : HARISH AADITYA SRIDHARAN
+
+*INTERN ID* : CT1MTDL12
+
+*DOMAIN* : DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 In the digital age, customers frequently express their opinions and experiences online, especially on social media platforms like Twitter. This wealth of textual data presents a unique opportunity for businesses to understand customer sentiment, address issues proactively, and tailor their services to meet expectations. One of the most practical applications of Natural Language Processing (NLP) in this domain is sentiment analysis—the process of determining whether a piece of text expresses a positive, negative, or neutral sentiment.
 
 This project focuses on performing sentiment analysis using the Twitter US Airline Sentiment Dataset, which contains tweets from February 2015 directed at major U.S. airlines, including American, Delta, United, Southwest, US Airways, and Virgin America. Each tweet is labeled with a sentiment: positive, neutral, or negative. The primary objective of this project is to develop a machine learning model capable of accurately predicting the sentiment of a tweet based on its textual content.
